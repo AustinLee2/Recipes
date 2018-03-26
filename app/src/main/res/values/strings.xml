@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recipes</string>
+    <string name="diet_restriction">Diet Restriction</string>
+    <string name="serving_restriction">Serving Restriction</string>
+    <string name="prep_time">Preparation Time</string>
+    <string name="search">Search</string>
+</resources>
